@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Relazione Tecnica ad uso del Convitto Nazionale "C. Colombo"
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
